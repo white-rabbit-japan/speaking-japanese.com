@@ -1,0 +1,206 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 21:02:52 Dec 29, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:05:25 May 3, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body { 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 10px; 
+	color: #000000;
+	margin: 0px; 
+	padding: 0px; 
+	background: #fff;
+}
+
+.header_translation {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 15px; 
+	color: #ffffff;
+	font-weight: 1000;
+	text-align: center;
+	float: center;
+	width: 607px;
+	height: 55px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	background: #fff;
+	border-top:  solid 1px #939292;
+	border-left:  solid 1px #939292;
+	border-right: solid 1px #939292;
+	border-right-style: outset;
+ 	background-color: #519590;
+}
+
+.top {
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	padding-top: 0px;
+	background: #fff;
+	border-top: 0px;
+	border-left:  solid 1px #939292;
+	border-right: solid 1px #939292;
+	border-bottom: 0px #ffffff;
+
+}
+
+.stripe {
+
+	background-image: url(images/images-translation-bg_borders.gif) repeat-y;
+	background-repeat: repeat-y;
+
+}
+
+
+
+.trans_white {
+	font-family: Arial, Helvetica, sans-serif;
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	background: #fff;
+	border-top: 0px;
+	border-left:  solid 1px #939292;
+	border-right: solid 1px #939292;
+	border-bottom: dashed 1px #939292;
+
+}
+
+.trans_white_top {
+	font-family: Arial, Helvetica, sans-serif;
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	background: #fff;
+	border-top: dashed 1px #939292;
+	border-left:  solid 1px #939292;
+	border-right: solid 1px #939292;
+	border-bottom: dashed 1px #939292;
+
+}
+
+.trans_white_last {
+	font-family: Arial, Helvetica, sans-serif;
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	background: #fff;
+	border-top: 0px;
+	border-left:  solid 1px #939292;
+	border-right: solid 1px #939292;
+	border-bottom: solid 1px #939292;
+
+}
+
+.trans_blue {
+	font-family: Arial, Helvetica, sans-serif;
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	background: #EEF1FA;
+	border-left:  solid 1px #939292;
+	border-right: solid 1px #939292;
+	border-bottom: dashed 1px #939292;
+
+}
+
+.trans_blue_top {
+	font-family: Arial, Helvetica, sans-serif;
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;	
+	background: #EEF1FA;
+	border-top: dashed 1px #939292;
+	border-left:  solid 1px #939292;
+	border-right: solid 1px #939292;
+	border-bottom: dashed 1px #939292;
+
+}
+
+.trans_blue_last {
+	font-family: Arial, Helvetica, sans-serif;
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	background: #EEF1FA;
+	border-top: 0px;
+	border-left:  solid 1px #939292;
+	border-right: solid 1px #939292;
+	border-bottom: solid 1px #939292;
+
+}
+
+div {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 
+	color: #000000;
+	text-align: justify;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+.title {
+
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+	font-weight: bolder;
+	color: #000000;	
+	
+}
+.box {
+	width: 750px;
+	margin-top: 0px;
+	background-color: #CEE1EE;
+	color: #006699;
+	border: 1px solid #9A9A9B;
+	border-bottom-style: outset;
+	border-right-style: outset;
+	line-height: 130%;
+}
+
+.hr_dotted {
+
+	border-style: dotted;
+	border-color: #666666;
+	
+}

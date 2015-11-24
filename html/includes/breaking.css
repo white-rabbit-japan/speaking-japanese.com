@@ -1,0 +1,350 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 20:31:54 Dec 29, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:03:24 May 3, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body { 
+	margin-top: 0px;
+	background-image: url(images/images-home_bg_breaking.jpg);
+    background-repeat: repeat-x;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	color: #000000;
+ }
+
+.header {
+
+	float: center;
+	width: 607px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	padding: 50px;
+	background-image: url(images/images-exploring-b_exploring.gif);
+	border-top:  solid 1px #A88681;
+	border-bottom: 0px;
+	border-left:  solid 1px #A88681;
+	border-right: solid 1px #A88681;
+	border-right-style: outset;
+	padding: inherit;
+
+}
+
+.header_exploring {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 15px; 
+	color: #ffffff;
+	font-weight: 1000;
+	text-align: center;
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 30px;
+	background-color: #E0543F;
+	border-top: 0px;
+	border-left:  solid 1px #A88681;
+	border-right: solid 1px #A88681;
+	border-right-style: outset;
+	padding: inherit;
+}
+
+.left_image {
+	float: center;
+	width: 607px;
+	margin-top: 0px;
+	padding-top: 0px;
+	background: #fff;
+	border-top: 0px;
+	border-left:  solid 1px #A88681;
+	border-right: solid 1px #A88681;
+	border-bottom: 0px #ffffff;
+
+}
+
+.intro {
+	float: left;
+	width: 400px;
+	margin-top: 20px;
+	margin-left: 8px;
+	padding-top: 0px;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	color: #ffffff;	
+
+}
+
+.small {
+
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #000000;	
+}
+
+.content_top {
+    float: center;
+	width: 440px;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding-top: 0px;
+	background: #fff;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	color: #000000;	
+
+}
+
+.content {
+    float: center;
+	width: 370px;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding-top: 0px;
+	background: #fff;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	color: #000000;	
+
+}
+
+.right_image {
+	float: center;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	position:inherit;
+}
+
+.right {
+	float: center;
+	width: 150px;
+	margin-top: 130px;
+	margin-left: 0px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #000000;	
+	position: inherit;
+
+}
+
+
+.nav {
+
+	float: center;
+	width: 607px;
+	margin: 0px;
+	background: #fff;
+	border-top: 0px;
+	border-left:  solid 1px #A88681;
+	border-right: solid 1px #A88681;
+	border-bottom: solid 1px #A88681;
+
+}
+
+
+.divider {
+
+	float: center;
+	width: 607px;
+	margin: 0px;
+	background: #fff;
+	border-top: solid 1px #A88681;
+	border-left:  0px;
+	border-right: 0px;
+	border-bottom: 0px;
+
+}
+
+.text{
+
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+}
+
+div {
+
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #000000;
+	text-align: justify;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+.title {
+
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+	font-weight: bolder;
+	color: #000000;	
+	
+}
+
+
+/* CSS Tabs */
+#navcontainer {
+        background: #E0543F;
+        border-top: 1px solid #fff;
+        font: normal normal 10px Arial, Helvetica, sans-serif;
+		width: 579px;
+		margin: 0px;
+}
+
+#navlist {
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+}
+
+@media all {
+        #navlist {
+                text-align: center
+        }
+}
+
+#navlist li {
+        bottom: 11px;
+        display: inline;
+        line-height: 1.2em;
+        margin: 0;
+        padding: 0;
+        position: relative;
+}
+
+html>body #navlist li {
+
+        margin: 0 0px 0 0;
+        padding: 0px 0px 0px 0;
+}
+
+#navlist a, #navlist a:link, #navlist a:visited {
+        background: #F9BFB7;
+        border: 1px solid #FFF;
+        bottom: 2px;
+        color: #640F02;
+        cursor: pointer;
+        display: inline;
+        height: 1em;
+        margin: 0;
+        padding: 2px 4px 2px 4px;
+        position: relative;
+        right: 2px;
+        text-decoration: none;
+}
+
+#navlist a:hover {
+        background: #E0543F;
+        bottom: 1px;
+        color: #FFF;
+        position: relative;
+        right: 1px;
+}
+
+#navlist a:active {
+        background: #999;
+        bottom: 0px;
+        color: #FFF;
+        position: relative;
+        right: 0px;
+}
+
+#navlist a:tab {
+        background: #E0543F;
+        bottom: 0px;
+        color: #FFF;
+        position: relative;
+        right: 0px;
+}
+
+#navlist li#active {
+        background: #E0543F;
+		border: 1px solid #FFF;
+        bottom: 13px;
+        display: inline;
+        margin: 0 3px 0 0;
+        padding: 0;
+        position: relative;
+}
+
+#navlist li#tab {
+        background: #E0543F;
+        bottom: 13px;
+        display: inline;
+        margin: 0 3px 0 0;
+        padding: 0;
+        position: relative;
+}
+
+html>body #navlist li#active {
+        background: #000;
+        margin: 0 4px 0 4px;
+}
+
+html>body #navlist li#tab {
+        background: #E0543F;
+        margin: 0 4px 0 4px;
+}
+
+#navlist #active a, #navlist #active a:link, #navlist #active a:visited, #navlist #active a:hover {
+        background: #E0543F;
+        border-bottom: none;
+        border-left: 0px;
+        border-right: 0px;
+        border-top: 0px;
+        bottom: 0;
+        color: #FFF;
+        cursor: text;
+        margin: 0;
+        padding: 2px 5px 0 5px;
+        position: relative;
+        right: 0;
+}
+
+#navlist #tab a, #navlist #tab a:link, #navlist #tab a:visited, #navlist #tab a:hover {
+        background: #E0543F;
+        border-bottom: none;
+        border-left: 0px;
+        border-right: 0px;
+        border-top: 0px;
+        bottom: 0;
+        color: #fff;
+        cursor: text;
+        margin: 0;
+        padding: 2px 5px 0 5px;
+        position: relative;
+        right: 0;
+}
+
+.copyright
+{
+		width: 607px;
+		float: center;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding: 0px;
+		font-family: Arial, Helvetica, sans-serif; 
+		font-weight: normal;
+		font-size: 10px;
+		color: #999;
+			
+}
